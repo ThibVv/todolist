@@ -6,7 +6,7 @@ Todolist est une application Flutter permettant de gérer ses tâches de manièr
 
 
 ## 📩 Auteur
-
+- VERBELEN Thibault
 - [@ThibVv](https://github.com/ThibVv/todolist)
 
 
